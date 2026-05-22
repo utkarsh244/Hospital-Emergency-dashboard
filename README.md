@@ -1,14 +1,14 @@
 # Hospital-Emergency-dashboard
-**1.Hospital Emergency Room Dashboard**
+**1. Hospital Emergency Room Dashboard**
 
 A Power BI Analytics Report for Emergency Department Operations & Patient Insights
 An interactive, multi-page Power BI dashboard analyzing 9,216 ER patient records across 19 months (April 2023 – October 2024) — built to support hospital administrators, clinical managers, and healthcare analysts in optimizing emergency room performance.
 
-**2.Description**
+**2. Description**
 
 The Hospital Emergency Room Dashboard is a comprehensive Power BI report that transforms raw ER patient data into actionable insights. It tracks patient volumes, wait times, satisfaction scores, referral patterns, and demographic breakdowns — helping healthcare teams identify bottlenecks, optimize staffing, and improve the overall patient experience.
 
-**3.Tech Stack**
+**3. Tech Stack**
 
 The dashboard was built using the following tools and technologies:
 📊 Power BI DesktopMain platform for report design and visualization
@@ -17,7 +17,7 @@ The dashboard was built using the following tools and technologies:
 🗂️ Data ModelingRelationships between Hospital ER_Data and Date Table for time-intelligence filtering
 📁 File Format.pbit (Power BI Template) for portability
 
-**4.Features**
+**4. Features**
 
 
 Emergency rooms are among the most resource-intensive environments in healthcare. Without a centralized view of operations, hospital administrators struggle to answer critical questions such as:
@@ -46,7 +46,7 @@ Patients by Race (Clustered Bar) — Racial composition of ER visits
 Wait Time Interval (Matrix) — Patient counts grouped by wait time buckets
 Patients by Day & Hour (Column Chart) — Heatmap-style view of busiest days and hours
 
-**6.Business Impact & Insights**
+**6. Business Impact & Insights**
 
 
 Stakeholder                      How This Dashboard Helps
@@ -56,5 +56,5 @@ Stakeholder                      How This Dashboard Helps
 🧾 Quality Teams                 Benchmark wait times and satisfaction scores for improvement initiatives
 👩‍⚕️ ER Staff Planners             Use day/hour heatmaps to schedule shifts more effectively
 
-**7.Screenshots / Demos**
+**7. Demo**
    ![Dashboard Prieview](https://github.com/utkarsh244/Hospital-Emergency-dashboard/blob/main/Dashboard%20front%20page.png)
