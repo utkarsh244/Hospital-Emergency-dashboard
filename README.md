@@ -1,5 +1,5 @@
 # Hospital-Emergency-dashboard
-###1. Hospital Emergency Room Dashboard
+##1. Hospital Emergency Room Dashboard
 
 A Power BI Analytics Report for Emergency Department Operations & Patient Insights
 An interactive, multi-page Power BI dashboard analyzing 9,216 ER patient records across 19 months (April 2023 – October 2024) — built to support hospital administrators, clinical managers, and healthcare analysts in optimizing emergency room performance.
