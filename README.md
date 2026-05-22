@@ -17,7 +17,7 @@ The dashboard was built using the following tools and technologies:
 🗂️ Data ModelingRelationships between Hospital ER_Data and Date Table for time-intelligence filtering
 📁 File Format.pbit (Power BI Template) for portability
 
-**4.Features **
+**4.Features**
 
 
 Emergency rooms are among the most resource-intensive environments in healthcare. Without a centralized view of operations, hospital administrators struggle to answer critical questions such as:
