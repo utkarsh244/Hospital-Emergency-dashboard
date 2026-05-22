@@ -49,4 +49,4 @@ Stakeholder                      How This Dashboard Helps
 👩‍⚕️ ER Staff Planners             Use day/hour heatmaps to schedule shifts more effectively
 
 6. Screenshots / Demos
-   
+   ![Dashboard Prieview](https://github.com/utkarsh244/Hospital-Emergency-dashboard/blob/main/Dashboard%20front%20page.png)
